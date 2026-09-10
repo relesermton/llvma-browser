@@ -34,7 +34,7 @@ The fastest way to spin up an instance of LLVMA with default settings:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/llvma.git
+git clone https://github.com/relesermton/llvma.git
 cd llvma
 2. Configure Environment
 Copy the example configuration file:

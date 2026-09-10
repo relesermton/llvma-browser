@@ -87,4 +87,4 @@ Update docs: If your change modifies an API endpoint, config variable, or workfl
 Open the PR: Provide a clear summary of your changes and reference any related issues (Fixes #123).
 Need Help?
 Start a discussion in the GitHub Discussions tab.
-If you find a security vulnerability, please do not open a public issue. Email security concerns to security@llvma.dev (or see SECURITY.md).
+If you find a security vulnerability, please do not open a public issue. Email security concerns to see SECURITY.md or report issue privately

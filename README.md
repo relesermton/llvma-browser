@@ -107,3 +107,25 @@ Please read our CONTRIBUTING.md for code style guidelines and testing practices.
 
 📄 License
 LLVMA is released under the MIT licence.
+## Contributors
+
+Thanks to all the people who contribute to LLVMA!
+
+<a href="https://github.com/llvma/llvma/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=llvma/llvma" alt="Contributors" />
+</a>
+(Replace llvma/llvma with your actual owner/repo-name).
+
+Method 3: Manual Markdown Table
+If you want full manual control, add a section at the bottom of your README.md:
+
+## 👥 Contributors
+
+- [@username1](https://github.com/relesermton) - Core Search Engine & Reranker
+- [@username2](https://github.com/aldo123lab) - UI & Frontend
+- [@username3](https://github.com/relesermton) - Documentation & Docker setup
+How GitHub Recognizes Contributors Automatically
+GitHub also adds contributors to the right-hand sidebar of your repository automatically as long as:
+
+Their commits are merged into the default branch (main).
+The email address in their git config user.email matches an email linked to their GitHub accoun

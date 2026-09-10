@@ -128,4 +128,4 @@ How GitHub Recognizes Contributors Automatically
 GitHub also adds contributors to the right-hand sidebar of your repository automatically as long as:
 
 Their commits are merged into the default branch (main).
-The email address in their git config user.email matches an email linked to their GitHub accoun
+The email address in their git config user.email matches an email linked to their GitHub accounts

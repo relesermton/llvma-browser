@@ -27,11 +27,8 @@ To report a vulnerability privately, use one of the following methods:
 1. **GitHub Private Advisory (Preferred)**:
    Go to the **Security** tab of the LLVMA repository, click **Advisories**, and select **Report a vulnerability**.
 
-2. **Email**:
-   Send your report to **security@llvma.dev** (or the repository maintainer's primary contact).
 
 ### What to Include
-
 Please include as much detail as possible to help us triage and reproduce the issue quickly:
 
 - Type of issue (e.g., SSRF in web crawler, prompt injection leading to RCE, unauthorized index access, memory leak).
